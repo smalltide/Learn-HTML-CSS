@@ -12,6 +12,7 @@ http://learn.shayhowe.com/html-css/getting-to-know-html/
 
 3. Lesson 3
 Getting to Know CSS New
+http://learn.shayhowe.com/html-css/getting-to-know-css/
 
 4. Lesson 4
 Opening the Box Model
