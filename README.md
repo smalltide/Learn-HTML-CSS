@@ -16,6 +16,7 @@ http://learn.shayhowe.com/html-css/getting-to-know-css/
 
 4. Lesson 4
 Opening the Box Model
+http://learn.shayhowe.com/html-css/opening-the-box-model/
 
 5. Lesson 5
 Positioning Content New
