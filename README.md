@@ -20,6 +20,7 @@ http://learn.shayhowe.com/html-css/opening-the-box-model/
 
 5. Lesson 5
 Positioning Content New
+http://learn.shayhowe.com/html-css/positioning-content/
 
 6. Lesson 6
 Working with Typography
