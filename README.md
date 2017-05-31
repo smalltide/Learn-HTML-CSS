@@ -24,6 +24,7 @@ http://learn.shayhowe.com/html-css/positioning-content/
 
 6. Lesson 6
 Working with Typography
+http://learn.shayhowe.com/html-css/working-with-typography/
 
 7. Lesson 7
 Setting Backgrounds & Gradients
