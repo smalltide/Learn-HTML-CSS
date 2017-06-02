@@ -28,6 +28,7 @@ http://learn.shayhowe.com/html-css/working-with-typography/
 
 7. Lesson 7
 Setting Backgrounds & Gradients
+http://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients/
 
 8. Lesson 8
 Creating Lists
